@@ -1,0 +1,23 @@
+Goal :- Find the date and month of programmers day.
+
+1 : Inclusive range of 1700-2700.
+2 : 1700-1917 -> Julian calender.
+
+3 : Transition of one year.
+	* Next day after 31st july was 14th feb.
+	* 14h day was 32th day of year in russia.
+
+4 : 1919-.. -> Gregorian calender.
+
+
+*********************************
+***** JULIAN CALENDER SYSTEM ****
+*********************************
+
+* ----------Year----------- *
+a) Normal (After Leap year)
+	* 365 Days
+	* 28 days in february
+b) Leap (After 3 normal years)
+	* 366 Days
+	* 29 days in february
